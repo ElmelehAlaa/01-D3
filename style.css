@@ -1,0 +1,49 @@
+
+
+html,body{font-family:'PT Serif', serif;}
+
+
+#tutto {margin: 0 auto;
+text-align: center;
+align-content: left;}
+
+
+h1{ color: #256d7b;
+    background-color:  #f1eabc; ;
+    font-size: 1.5em;
+    border-top: solid;   
+     border-top-width: 2px; 
+        border-top-color: #e0af0f}    
+
+
+
+figcaption{ color: gray;}
+
+img{ border-radius: 2%;}
+
+ hr {
+    border: 1;
+    width: 100%;
+    color: #26a8db;
+    }
+
+
+
+
+
+
+
+h2 {color:#28282d;
+font-size: 2.5em;
+font-weight:bold;
+}
+
+
+
+hr{ width:100%; color:#c4ad1d;}
+
+
+
+p{font-weight: bold; font-size: 1.5em;}
+
+h4{font-size: 2em; font-family:'PT Serif' ;}
